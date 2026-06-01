@@ -1,0 +1,11 @@
+# Header links.
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: /files/Minseob_Kim_CV.pdf
+    download: Minseob_Kim_CV.pdf
