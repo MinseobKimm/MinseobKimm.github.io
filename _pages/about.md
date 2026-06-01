@@ -19,17 +19,11 @@ Research Interests
 * **New model architectures:** alternatives to Transformer-centric designs for memory, abstraction, and scalable reasoning.
 * **Reliable AI agents:** verification, self-correction, and robustness for autonomous systems.
 
-Education
+Explore
 ======
 
-* **B.S. in School of Computing**, Korea Advanced Institute of Science and Technology (KAIST), Mar. 2023 - Feb. 2029 expected.
-
-Selected Coursework
-======
-
-* Probability and Statistics (A+)
-* Introduction to Algorithms (A-)
-* Data Structure (A-)
-* Introduction to Programming (A+)
-* System Programming (A)
-* Machine Learning (self-studied)
+<div class="home-actions">
+  <a class="btn" href="/research/">Research</a>
+  <a class="btn" href="/projects/">Projects</a>
+  <a class="btn" href="/files/Minseob_Kim_CV.pdf" download="Minseob_Kim_CV.pdf">Download CV</a>
+</div>

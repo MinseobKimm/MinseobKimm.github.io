@@ -101,6 +101,18 @@
     font-size: $type-size-6;
   }
 
+  .home-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1.25rem 0 2rem;
+
+    .btn {
+      margin-bottom: 0;
+      text-decoration: none;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
