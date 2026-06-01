@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-These projects reflect my interest in reliable AI agents, long-lived memory, reasoning workflows, and tools that keep model outputs grounded in source evidence.
-
 <div class="project-grid">
   <article class="project-card">
     <a href="https://github.com/MinseobKimm/paper-pilot">
@@ -48,6 +46,28 @@ These projects reflect my interest in reliable AI agents, long-lived memory, rea
         <li>MCP recall tools with provenance and freshness signals</li>
       </ul>
       <p><a href="https://github.com/MinseobKimm/Locium">View repository</a></p>
+    </div>
+  </article>
+
+  <article class="project-card">
+    <a href="https://github.com/MinseobKimm/cf-workbench">
+      <img src="/images/projects/cf-workbench-code.png" alt="cf-workbench Codeforces practice workspace screenshot" class="project-card__image" />
+    </a>
+    <div class="project-card__body">
+      <p class="project-card__eyebrow">Local competitive-programming workbench</p>
+      <h2>CF Workbench</h2>
+      <p>
+        A local-first Codeforces practice environment for importing problems, generating C++ solution files,
+        running sample and custom tests, and tracking personal progress. The tool consolidates statements,
+        templates, source files, test cases, and recent submission context into a browser-based workspace while
+        staying within contest-rule boundaries.
+      </p>
+      <ul class="project-card__meta">
+        <li>Python local server with browser-based UI and Monaco editor</li>
+        <li>C++ compile/run pipeline with token, trim, and exact comparison modes</li>
+        <li>Codeforces API integration and optional Chrome extension workflow</li>
+      </ul>
+      <p><a href="https://github.com/MinseobKimm/cf-workbench">View repository</a></p>
     </div>
   </article>
 </div>
