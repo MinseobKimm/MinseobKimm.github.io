@@ -8,7 +8,7 @@ author_profile: true
 <div class="project-grid">
   <article class="project-card">
     <a href="https://github.com/MinseobKimm/paper-pilot">
-      <img src="/images/projects/paper-pilot-reader.png" alt="Paper Pilot reader workspace screenshot" class="project-card__image" />
+      <img src="/images/projects/paper-pilot-attention.png" alt="Paper Pilot reader workspace screenshot" class="project-card__image" />
     </a>
     <div class="project-card__body">
       <p class="project-card__eyebrow">Local-first research workspace</p>
