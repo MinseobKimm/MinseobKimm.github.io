@@ -130,6 +130,24 @@
   margin-bottom: 0.75rem;
 }
 
+.project-language-link {
+  margin: 0 0 2.5rem;
+  text-align: center;
+}
+
+.project-page-intro {
+  margin: 0.5rem 0 1.25rem;
+  color: var(--global-text-color-light);
+}
+
+.project-grid--ko {
+  word-break: keep-all;
+
+  .project-card__body {
+    line-height: 1.75;
+  }
+}
+
 
 /*
    List view

@@ -71,3 +71,7 @@ author_profile: true
     </div>
   </article>
 </div>
+
+<div class="project-language-link">
+  <a class="btn" href="/projects/ko/">한국어 프로젝트 설명 보기</a>
+</div>
