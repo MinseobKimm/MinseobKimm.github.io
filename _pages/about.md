@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate in the School of Computing at KAIST. My long-term goal is to build general-purpose AI systems that can reason, plan, and solve complex problems reliably.
-
-My current interests are centered on world models, abstract representations, reasoning and planning, new model architectures beyond Transformer-centric approaches, and reliable AI agents that can verify and correct their own behavior.
+I am an undergraduate in the School of Computing at KAIST.
 
 Research Interests
 ======
 
-* **World models:** learning internal models that support long-horizon reasoning and planning.
-* **Reasoning and planning:** methods for solving complex multi-step problems.
-* **New model architectures:** alternatives to Transformer-centric designs for memory, abstraction, and scalable reasoning.
-* **Reliable AI agents:** verification, self-correction, and robustness for autonomous systems.
+My long-term goal is to build general-purpose AI agents that can reason, plan, and make reliable decisions over long horizons. I am especially interested in decision-making agents, offline reinforcement learning, and reinforcement learning from human feedback for training capable and aligned AI systems.
+
+* **Decision-Making Agents:** Learning agents that can plan, act, and adapt across complex multi-step tasks.
+* **Offline Reinforcement Learning:** Learning effective policies from previously collected trajectories, with an emphasis on long-horizon credit assignment and distribution shift.
+* **Reinforcement Learning from Human Feedback:** Using preference feedback and reward modeling to improve agent behavior beyond supervised learning.
+* **Reliable AI Agents:** Understanding and mitigating reward hacking, unintended misalignment, and failure modes in autonomous systems.
 
 Education
 ======

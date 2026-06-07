@@ -5,24 +5,24 @@ permalink: /research/
 author_profile: true
 ---
 
-My long-term goal is to build general-purpose AI systems that can reason, plan, and solve complex problems reliably. I am especially interested in world models, abstract representations, and model architectures beyond Transformer-centric approaches.
+My long-term goal is to build general-purpose AI agents that can reason, plan, and make reliable decisions over long horizons. I am especially interested in decision-making agents, offline reinforcement learning, and reinforcement learning from human feedback for training capable and aligned AI systems.
 
-World Models
+Decision-Making Agents
 ======
 
-I am interested in learning internal models that support long-horizon reasoning and planning.
+Learning agents that can plan, act, and adapt across complex multi-step tasks.
 
-Reasoning and Planning
+Offline Reinforcement Learning
 ======
 
-I am interested in methods for solving complex multi-step problems.
+Learning effective policies from previously collected trajectories, with an emphasis on long-horizon credit assignment and distribution shift.
 
-Model Architectures Beyond Transformers
+Reinforcement Learning from Human Feedback
 ======
 
-I am curious about alternatives to Transformer-centric models for memory, abstraction, and scalable reasoning.
+Using preference feedback and reward modeling to improve agent behavior beyond supervised learning.
 
 Reliable AI Agents
 ======
 
-I am interested in verification and self-correction methods for autonomous systems.
+Understanding and mitigating reward hacking, unintended misalignment, and failure modes in autonomous systems.
